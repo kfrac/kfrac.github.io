@@ -1,0 +1,14 @@
+---
+title: "Kevin Frac"
+image: "xiang.jpg"
+links:
+  - LinkedIn: "https://www.linkedin.com/in/kevin-frac-15296479/"
+  - Twitter: "https://twitter.com/kevinfrac"
+  - GitHub: "https://github.com/kfrac"
+  - Email: "mailto:email@email.com"
+output:
+  postcards::jolla_blue
+---
+ 
+Climate, transportation and mapping enthusiast. I recently graduated with an
+MSc. in Physical Geography and am currently seeking employment.
