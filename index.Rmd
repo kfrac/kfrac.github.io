@@ -1,6 +1,6 @@
 ---
 title: "Kevin Frac"
-image: "xiang.jpg"
+image: "kevin.jpg"
 links:
   - LinkedIn: "https://www.linkedin.com/in/kevin-frac-15296479/"
   - Twitter: "https://twitter.com/kevinfrac"
