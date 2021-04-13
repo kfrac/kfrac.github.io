@@ -2,10 +2,12 @@
 title: "Kevin Frac"
 image: "kevin.jpg"
 links:
-  - LinkedIn: "https://www.linkedin.com/in/kevin-frac-15296479/"
-  - Twitter: "https://twitter.com/kevinfrac"
-  - GitHub: "https://github.com/kfrac"
-  - Email: "mailto:email@email.com"
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/kevin-frac/"
+  - label: Twitter
+    url: "https://twitter.com/kevinfrac"
+  - label: GitHub
+    url: "https://github.com/kfrac"
 output:
   postcards::trestles
 ---
