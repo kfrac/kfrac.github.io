@@ -1,0 +1,27 @@
+---
+title: "Kevin Frac"
+image: "kevin.jpg"
+links:
+  - LinkedIn: "https://www.linkedin.com/in/kevin-frac-15296479/"
+  - Twitter: "https://twitter.com/kevinfrac"
+  - GitHub: "https://github.com/kfrac"
+  - Email: "mailto:email@email.com"
+output:
+  postcards::trestles
+---
+
+## About me
+
+I am a geographer interested in climate, conservation and transportation topics. I use R and GIS. In my master's thesis, I modelled where and when Lidar can effectively measure wind speed in Germany based on satellite observations of aerosols. I also freelance edit journal articles. I am currently seeking employment.
+
+## Projects I've worked on
+
+[Project LiMeS](https://www.iee.fraunhofer.de/de/projekte/suche/laufende/LiMeS.html) (German only) at Fraunhofer IEE
+
+[The Mountain Exile Hypothesis](https://www.uni-marburg.de/en/fb19/dfg2358) at Environmental Informatics Uni Marburg
+
+## Education
+
+**M.Sc. in Physical Geography** from Philipps University of Marburg
+
+**B.A. in History & German** from UNC-Chapel Hill
