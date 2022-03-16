@@ -2,19 +2,19 @@
 title: "Kevin Frac"
 image: "kevin.jpg"
 links:
-  - label: '<i class="fab fa-linkedin fa-lg"></i>'
-  - url: "https://www.linkedin.com/in/kevin-frac-15296479/"
-  - label: '<i class="fab fa-twitter fa-lg"></i>'
-  - url: "https://twitter.com/kevinfrac"
-  - label: '<i class="fab fa-github fa-lg"></i>'
-  - url: "https://github.com/kfrac"
+  - label: '`r fontawesome::fa(name = "linkedin")`'
+    url: "https://www.linkedin.com/in/kevin-frac-15296479/"
+  - label: '`r fontawesome::fa(name = "twitter")`'
+    url: "https://twitter.com/kevinfrac"
+  - label: '`r fontawesome::fa(name = "github")`'
+    url: "https://github.com/kfrac"
 output:
   postcards::trestles
 ---
 
 ## About me
 
-I am a geographer interested in climate, conservation and transportation topics. I use R and GIS. In my master's thesis, I modelled where and when Lidar can effectively measure wind speed in Germany based on satellite observations of aerosols. I also freelance edit journal articles. I am currently seeking employment.
+I am a geographer interested in climate, conservation and transportation topics. I use R and GIS. In my master's thesis, I modelled where and when Lidar can effectively measure wind speed in Germany based on satellite observations of aerosols. I also freelance edit journal articles. I am currently seeking employment. `r fontawesome::fa(name = "r-project", fill = "steelblue")`
 
 ## Projects I've worked on
 
