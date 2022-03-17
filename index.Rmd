@@ -14,13 +14,15 @@ output:
 
 ## About me
 
-I am a geographer interested in climate, conservation and transportation topics. I use R and GIS. In my master's thesis, I modelled where and when Lidar can effectively measure wind speed in Germany based on satellite observations of aerosols. I also freelance edit journal articles. I am currently seeking employment. `r fontawesome::fa(name = "r-project", fill = "steelblue")`
+I am a geographer interested in topics related to climate, conservation and transportation. For my work with spatial data, I use `r fontawesome::fa(name = "r-project", fill = "steelblue")` as well as traditional GIS. In my master's thesis, I modelled where and when Lidar can effectively measure wind speed in Germany based on satellite observations of aerosols. I am currently seeking employment.
 
 ## Projects I've worked on
 
-[Project LiMeS](https://www.iee.fraunhofer.de/de/projekte/suche/laufende/LiMeS.html) (German only) at Fraunhofer IEE
+[GeoAI](https://geomoer.github.io/geoAI/) in the [Environmental Informatics](https://www.uni-marburg.de/en/fb19/disciplines/physisch/environmentalinformatics) lab of Uni Marburg
 
-[The Mountain Exile Hypothesis](https://www.uni-marburg.de/en/fb19/dfg2358) at Environmental Informatics Uni Marburg
+[Project LiMeS](https://www.iee.fraunhofer.de/de/projekte/suche/laufende/LiMeS.html) (German only) at [Fraunhofer IEE](https://www.iee.fraunhofer.de/en.html)
+
+[The Mountain Exile Hypothesis](https://www.uni-marburg.de/en/fb19/dfg2358) in the [Environmental Informatics](https://www.uni-marburg.de/en/fb19/disciplines/physisch/environmentalinformatics) lab of Uni Marburg
 
 ## Education
 
