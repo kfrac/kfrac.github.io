@@ -2,11 +2,11 @@
 title: "Kevin Frac"
 image: "kevin.jpg"
 links:
-  - label: '`r fontawesome::fa(name = "linkedin")`'
+  - label: '`r fontawesome::fa_i(name = "linkedin", class = "fa-lg")`'
     url: "https://www.linkedin.com/in/kevin-frac-15296479/"
-  - label: '`r fontawesome::fa(name = "twitter")`'
+  - label: '`r fontawesome::fa_i(name = "twitter", class = "fa-lg")`'
     url: "https://twitter.com/kevinfrac"
-  - label: '`r fontawesome::fa(name = "github")`'
+  - label: '`r fontawesome::fa_i(name = "github", class = "fa-lg")`'
     url: "https://github.com/kfrac"
 output:
   postcards::trestles
