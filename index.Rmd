@@ -3,7 +3,7 @@ title: "Kevin Frac"
 image: "kevin.jpg"
 links:
   - label: '`r fontawesome::fa_i(name = "linkedin", class = "fa-lg")`'
-    url: "https://www.linkedin.com/in/kevin-frac-15296479/"
+    url: "https://www.linkedin.com/in/kevin-frac/"
   - label: '`r fontawesome::fa_i(name = "twitter", class = "fa-lg")`'
     url: "https://twitter.com/kevinfrac"
   - label: '`r fontawesome::fa_i(name = "github", class = "fa-lg")`'
